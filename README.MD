@@ -1,0 +1,3 @@
+- add a search box 
+- create the effect for image with the prompt as iamsahilvhora's website has
+- load more option to load more images
