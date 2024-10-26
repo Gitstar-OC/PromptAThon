@@ -14,8 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Eco Friendly Recipe App",
-  description: "This app will help you to create carbon friendly recipe which will lead to a better world.",
+  title: "PromptAThon",
 };
 
 export default function RootLayout({ children }) {

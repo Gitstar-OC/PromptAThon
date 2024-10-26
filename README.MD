@@ -1,3 +1,7 @@
-- add a search box 
-- create the effect for image with the prompt as iamsahilvhora's website has
-- load more option to load more images
+# [OC Coder's](https://devpost.com/Gitstar-OC) AI for Urban Health - Prompt-A-Thon Project
+
+<!-- - add a search box  -->
+<!-- - load more option to load more images -->
+
+## Prompts
+
