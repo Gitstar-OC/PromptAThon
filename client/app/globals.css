@@ -86,7 +86,7 @@ body {
 
 
 /***************************** Image Opener ********************/
-.modal-backdrop {
+/* .modal-backdrop {
   position: fixed;
   inset: 0;
   background-color: rgba(0, 0, 0, 0.7);
@@ -116,5 +116,18 @@ body {
 }
 
 .cursor-pointer {
+  cursor: pointer;
+} */
+
+.modal-backdrop {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.modal-content {
+  background-color: white;
+}
+
+.modal-close {
+  font-size: 24px;
   cursor: pointer;
 }
