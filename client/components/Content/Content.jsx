@@ -11,7 +11,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion"; 
 
-const useTypingEffect = (text, speed = 30) => {
+const useTypingEffect = (text, speed = 5) => {
   const [displayedText, setDisplayedText] = useState("");
   const [isTyping, setIsTyping] = useState(false);
   const fullTextRef = useRef(text);
