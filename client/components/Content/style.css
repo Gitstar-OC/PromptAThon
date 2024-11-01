@@ -6,15 +6,15 @@
 
 @keyframes appear {
     0% {
-        opacity: 0.8; /* Begin with slight fade-in */
-        transform: scale(0.8); /* Start at normal size */
+        opacity: 0.8;
+        transform: scale(0.8);
     }
     50% {
-        opacity: 1; /* Fully visible when the image is in view */
-        transform: scale(1); /* Max scale when the image is centered */
+        opacity: 1;
+        transform: scale(1);
     }
     100% {
         opacity: 0.8;
-        transform: scale(0.8); /* Return to normal size as it leaves the view */
+        transform: scale(0.8);
     }
 }
